@@ -18,7 +18,7 @@
 | Deliverable Item | Status | Value / Link / Reference |
 |---|---|---|
 | **1. Project Title & Objective** | Completed | **Tech-Fest-2026-portal** — A cloud-connected, full-stack event registration and management platform with JWT authentication, dynamic event search, and digital entry pass generation. |
-| **2. GitHub Repository URL** | Ready to Push | `https://github.com/<YOUR_GITHUB_USERNAME>/Techfest-deployment` |
+| **2. GitHub Repository URL** | Pushed & Live | `https://github.com/siddharthr0406-sys/Techfest-deployment` |
 | **3. Netlify Live URL** | Configured | `https://techfest2026.netlify.app` (or your assigned Netlify subdomain) |
 | **4. Render Health-Check URL** | Verified | `https://secure-login-portal-api.onrender.com/api/health` |
 | **5. Screenshots + Issues Resolved** | Documented | Included below with 4 verified screenshots and 3 critical solved issues. |
@@ -36,7 +36,7 @@ git check-ignore server/.env
 git check-ignore client/.env
 
 # 2. Add your GitHub repository remote
-git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/Techfest-deployment.git
+git remote add origin https://github.com/siddharthr0406-sys/Techfest-deployment.git
 
 # 3. Verify remote connection
 git remote -v
